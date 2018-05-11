@@ -6,11 +6,10 @@ body {
     color: #333333;
 }
 
-
 .a {
     float: left;
     width: 45%;
-    margin: auto;
+    margin-left: 20px;
     padding: 20px;
 }
 
@@ -22,8 +21,16 @@ body {
 .b {
     float: right;
     width: 45%;
-    margin: auto;
     padding: 20px;
+    margin-right: 20px;
+}
+
+.b h2 {
+    text-align: center;
+}
+
+.b ul {
+    float: right;
 }
 
 header {
