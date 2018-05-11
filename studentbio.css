@@ -1,0 +1,16 @@
+section {
+    width: 40%;
+    display: inline-block;
+    border: 1px black solid;
+    padding: 10px;
+    margin: 10px;
+    height: 30%;
+}
+
+.a {
+    float: left;
+}
+
+.b {
+    float: right;
+}
